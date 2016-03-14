@@ -320,15 +320,6 @@
 
 
 <hr/>
-<p>
-    <strong>捐助</strong>
-    <br/>
-    支付宝: monkeyking1987@126.com (**钊)
-    <br/>
-    快意江湖 -- 100元
-    <br/>
-    yufan -- 100元
-</p>
 
 <hr/>
 <p>
