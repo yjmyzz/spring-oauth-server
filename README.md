@@ -318,10 +318,8 @@
     <li><p>......</p></li>
 </ul>
 
-
 <hr/>
 
-<hr/>
 <p>
  关注更多我的开源项目请访问 <a href="http://andaily.com/my_projects.html">http://andaily.com/my_projects.html</a>
 </p>
