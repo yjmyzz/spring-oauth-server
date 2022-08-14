@@ -16,7 +16,7 @@
 
         <spring.version>5.3.16</spring.version>
         <spring.security.version>5.2.10.RELEASE</spring.security.version>
-        <spring.security.oauth.version>2.0.17.RELEASE</spring.security.oauth.version>
+        <spring.security.oauth.version>2.0.18.RELEASE</spring.security.oauth.version>
         <fasterxml.jackson.version>2.12.6.1</fasterxml.jackson.version>
 
         <aspectj.version>1.8.6</aspectj.version>
